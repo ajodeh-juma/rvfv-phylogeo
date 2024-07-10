@@ -1,0 +1,248 @@
+taxa,host,country,accession,organism,length,strain,location,date
+BDI0002|cow|BDI|2022-05-17,cow,BDI,BDI0002,Rift Valley fever virus,1690,BDI0002,Ruyaga,2022-05-17
+BDI0003|cow|BDI|2022-05-17,cow,BDI,BDI0003,Rift Valley fever virus,1690,BDI0003,Ngozi,2022-05-17
+BDI0006|cow|BDI|2022-05-19,cow,BDI,BDI0006,Rift Valley fever virus,1690,BDI0006,Kobero,2022-05-19
+BDI0008|cow|BDI|2022-05-19,cow,BDI,BDI0008,Rift Valley fever virus,1690,BDI0008,Kobero,2022-05-19
+DQ380181|mosquito|BFA|1983-01-01,mosquito,BFA,DQ380181,Rift Valley fever virus,1691,ARD-38388,Fada-Ngourma,1983-01-01
+DQ380167|human|CAF|1969-01-01,human,CAF,DQ380167,Rift Valley fever virus,1690,Zinga,Bangui,1969-01-01
+DQ380172|human|CAF|1973-01-01,human,CAF,DQ380172,Rift Valley fever virus,1690,73HB1230,Ombella Mpoko,1973-01-01
+DQ380162|human|CAF|1973-01-01,human,CAF,DQ380162,Rift Valley fever virus,1690,73HB1449,Ombella Mpoko,1973-01-01
+DQ380161|human|CAF|1985-01-01,human,CAF,DQ380161,Rift Valley fever virus,1690,Hv-B375,Mbaiki,1985-01-01
+DQ380160|human|CAF|1985-01-01,human,CAF,DQ380160,Rift Valley fever virus,1690,CAR-R1622,Bangui,1985-01-01
+EU312138|human|EGY|1977-01-01,human,EGY,EU312138,Rift Valley fever virus,1690,ZH548EGY77,Sharqiya,1977-01-01
+DQ380152|cow|EGY|1978-01-01,cow,EGY,DQ380152,Rift Valley fever virus,1690,ZC-3349,Asyut,1978-01-01
+DQ380150|mosquito|EGY|1977-10-10,mosquito,EGY,DQ380150,Rift Valley fever virus,1689,T1,Sharqiya,1977-10-10
+DQ380153|human|EGY|1978-01-01,human,EGY,DQ380153,Rift Valley fever virus,1690,ZH-1776,Gharbiya,1978-01-01
+DQ380146|mosquito|EGY|1978-01-01,mosquito,EGY,DQ380146,Rift Valley fever virus,1690,ZM-657,Sharqiya,1978-01-01
+DQ380147|mosquito|EGY|1977-11-12,mosquito,EGY,DQ380147,Rift Valley fever virus,1690,T-46 (228113),Sharqiya,1977-11-12
+NC_014395|human|EGY|1977-01-01,human,EGY,NC_014395,Rift Valley fever virus,1690,ZH-548,Sharqiya,1977-01-01
+DQ380145|sheep|EGY|1979-01-01,sheep,EGY,DQ380145,Rift Valley fever virus,1690,ZS-6365,Gharbiya,1979-01-01
+DQ380165|bat|GIN|1981-01-01,bat,GIN,DQ380165,Rift Valley fever virus,1690,ANK-3837,Macenta,1981-01-01
+EU574074|cow|KEN|2007-01-31,cow,KEN,EU574074,Rift Valley fever virus,1691,2007001292,Meru South,2007-01-31
+HM586984|mosquito|KEN|2007-01-13,mosquito,KEN,HM586984,Rift Valley fever virus,1691,KEN/KLF-Msq091/07,Kilifi,2007-01-13
+HM586983|mosquito|KEN|2006-12-29,mosquito,KEN,HM586983,Rift Valley fever virus,1691,KEN/Gar-Msq131B-04/06,Garissa,2006-12-29
+HM586980|human|KEN|2007-01-30,human,KEN,HM586980,Rift Valley fever virus,1691,KEN/Bar-035/07,Kiserian,2007-01-30
+EU574076|cow|KEN|2007-01-26,cow,KEN,EU574076,Rift Valley fever virus,1690,2007000665,Nyeri,2007-01-26
+HM586979|human|KEN|2007-02-03,human,KEN,HM586979,Rift Valley fever virus,1691,KEN/Bar-032/07,Baringo,2007-02-03
+HM586975|human|KEN|2006-12-21,human,KEN,HM586975,Rift Valley fever virus,1691,KEN/Gar-004/06,Garissa,2006-12-21
+HM586978|human|KEN|2007-01-15,human,KEN,HM586978,Rift Valley fever virus,1691,KEN/Mal-032/07,Malindi,2007-01-15
+EU574081|cow|KEN|2007-01-16,cow,KEN,EU574081,Rift Valley fever virus,1691,2007000226,Maragua,2007-01-16
+EU574085|cow|KEN|2007-01-16,cow,KEN,EU574085,Rift Valley fever virus,1691,2007000222,Maragua,2007-01-16
+HM586977|human|KEN|2007-01-05,human,KEN,HM586977,Rift Valley fever virus,1691,KEN/Kil-006/07,Kilifi,2007-01-05
+HM586976|human|KEN|2006-12-21,human,KEN,HM586976,Rift Valley fever virus,1691,KEN/Gar-008/06,Garissa,2006-12-21
+EU574087|cow|KEN|2007-01-12,cow,KEN,EU574087,Rift Valley fever virus,1691,2007000080,Maragua,2007-01-12
+J10|human|KEN|2007-01-01,human,KEN,J10,Rift Valley fever virus,1690,J10,Baringo,2007-01-01
+J8|human|KEN|2007-01-01,human,KEN,J8,Rift Valley fever virus,1690,J8,Baringo,2007-01-01
+08HAB|cow|KEN|2018-01-01,cow,KEN,08HAB,Rift Valley fever virus,1660,08HAB,Wajir,2018-01-01
+JF326198|mosquito|KEN|2007-01-01,mosquito,KEN,JF326198,Rift Valley fever virus,1691,2007000234,Garissa,2007-01-01
+OM744371|cow|KEN|2021-07-15,cow,KEN,OM744371,Rift Valley fever virus,1690,DVS-321,Kiambu,2021-07-15
+OM744370|cow|KEN|2021-07-15,cow,KEN,OM744370,Rift Valley fever virus,1689,DVS-230,Kiambu,2021-07-15
+N12|human|KEN|2019-02-01,human,KEN,N12,Rift Valley fever virus,1690,N12,Nyandarua,2019-02-01
+MSA|human|KEN|2007-01-01,human,KEN,MSA,Rift Valley fever virus,1690,MSA,Baringo,2007-01-01
+MO-LE|human|KEN|2007-01-01,human,KEN,MO-LE,Rift Valley fever virus,1690,MO-LE,Nairobi,2007-01-01
+MG659985|sheep|KEN|1972-01-01,sheep,KEN,MG659985,Rift Valley fever virus,1690,S35,Mombasa,1972-01-01
+MG659984|cow|KEN|1962-01-01,cow,KEN,MG659984,Rift Valley fever virus,1691,B314,Makueni,1962-01-01
+KX096940|mosquito|KEN|2006-01-01,mosquito,KEN,KX096940,Rift Valley fever virus,1692,Kenya-128b-15,Garissa,2006-01-01
+KU978774|human|KEN|1998-01-04,human,KEN,KU978774,Rift Valley fever virus,1636,Ken 9800523,Garissa,1998-01-04
+KEM-ND|human|KEN|2007-01-01,human,KEN,KEM-ND,Rift Valley fever virus,1690,KEM-ND,Baringo,2007-01-01
+EU574072|cow|KEN|2007-01-29,cow,KEN,EU574072,Rift Valley fever virus,1690,2007001564,Muranga,2007-01-29
+KEM-BR|human|KEN|2007-01-03,human,KEN,KEM-BR,Rift Valley fever virus,1690,KEM-BR,Baringo,2007-01-03
+JF326201|mosquito|KEN|2006-12-29,mosquito,KEN,JF326201,Rift Valley fever virus,1691,2007000253,Garissa,2006-12-29
+JF326200|mosquito|KEN|2006-12-29,mosquito,KEN,JF326200,Rift Valley fever virus,1691,2007000250,Garissa,2006-12-29
+JF326199|mosquito|KEN|2006-12-29,mosquito,KEN,JF326199,Rift Valley fever virus,1691,2007000245,Garissa,2006-12-29
+J9|human|KEN|2007-01-11,human,KEN,J9,Rift Valley fever virus,1689,J9,Kilifi,2007-01-11
+EU574071|cow|KEN|2007-01-30,cow,KEN,EU574071,Rift Valley fever virus,1691,2007001602,Mombassa,2007-01-30
+SWA-ISI|human|KEN|2020-11-01,human,KEN,SWA-ISI,Rift Valley fever virus,1690,SWA-ISI,Isiolo,2020-11-01
+EU574067|sheep|KEN|2007-02-07,sheep,KEN,EU574067,Rift Valley fever virus,1690,2007002059,Nairobi,2007-02-07
+CML3|cow|KEN|2018-06-27,cow,KEN,CML3,Rift Valley fever virus,1667,CML3,Marsabit,2018-06-27
+DQ380171|mosquito|KEN|1983-01-01,mosquito,KEN,DQ380171,Rift Valley fever virus,1691,Kenya 83 (21445),Ruiru,1983-01-01
+AM-M1|cow|KEN|2021-01-16,cow,KEN,AM-M1,Rift Valley fever virus,1653,AM-M1,Kiambu,2021-01-16
+DQ380169|human|KEN|1998-01-01,human,KEN,DQ380169,Rift Valley fever virus,1690,Kenya 9800523,Garissa,1998-01-01
+DQ380176|cow|KEN|1965-01-01,cow,KEN,DQ380176,Rift Valley fever virus,1690,Kenya 56 (IB8),Kiambu,1965-01-01
+EU574057|cow|KEN|2007-05-14,cow,KEN,EU574057,Rift Valley fever virus,1689,2007004194,Kiambu,2007-05-14
+A-MO|human|KEN|2020-11-01,human,KEN,A-MO,Rift Valley fever virus,1690,A-MO,Isiolo,2020-11-01
+EU574070|cow|KEN|2007-01-26,cow,KEN,EU574070,Rift Valley fever virus,1691,2007001800,Nairobi,2007-01-26
+DQ380155|sheep|KEN|1951-01-01,sheep,KEN,DQ380155,Rift Valley fever virus,1691,Kenya 57 (Rintoul),Kabete,1951-01-01
+EU574058|cow|KEN|2007-04-23,cow,KEN,EU574058,Rift Valley fever virus,1691,2007004193,Nairobi,2007-04-23
+EU574059|sheep|KEN|2007-02-07,sheep,KEN,EU574059,Rift Valley fever virus,1691,2007003644,Baringo,2007-02-07
+EU574060|cow|KEN|2007-02-27,cow,KEN,EU574060,Rift Valley fever virus,1691,2007003081,Embu,2007-02-27
+EU574061|buffalo|KEN|2007-02-09,buffalo,KEN,EU574061,Rift Valley fever virus,1691,2007002820,Garissa,2007-02-09
+EU574066|cow|KEN|2007-01-31,cow,KEN,EU574066,Rift Valley fever virus,1691,2007002060,Nairobi,2007-01-31
+250618|human|KEN|2018-06-06,human,KEN,250618,Rift Valley fever virus,1690,250618,Wajir,2018-06-06
+JF311393|cow|MDG|2008-02-01,cow,MDG,JF311393,Rift Valley fever virus,1691,200803169,Antsirabe,2008-02-01
+JF311392|cow|MDG|2008-02-01,cow,MDG,JF311392,Rift Valley fever virus,1691,200803168,Miarinarivo,2008-02-01
+JF311390|human|MDG|1991-02-01,human,MDG,JF311390,Rift Valley fever virus,1691,200803166,Antananarivo,1991-02-01
+JF311388|human|MDG|2008-03-01,human,MDG,JF311388,Rift Valley fever virus,1691,200803164,Ankazobe,2008-03-01
+JF311386|human|MDG|2008-01-01,human,MDG,JF311386,Rift Valley fever virus,1691,200803162,Taolagnaro,2008-01-01
+JF311391|cow|MDG|1991-02-01,cow,MDG,JF311391,Rift Valley fever virus,1691,200803167,Antananarivo,1991-02-01
+EU312108|cow|MDG|1991-01-01,cow,MDG,EU312108,Rift Valley fever virus,1691,An1000MAD91,Tanjombato,1991-01-01
+DQ380144|cow|MDG|1979-01-01,cow,MDG,DQ380144,Rift Valley fever virus,1691,MgH824,Moramanga,1979-01-01
+EU312106|cow|MDG|1991-01-01,cow,MDG,EU312106,Rift Valley fever virus,1691,An991MAD91,Ivato,1991-01-01
+EU312107|cow|MDG|1991-01-01,cow,MDG,EU312107,Rift Valley fever virus,1691,An999MAD91,Tanjombato,1991-01-01
+DQ380177|human|MRT|1987-01-01,human,MRT,DQ380177,Rift Valley fever virus,1690,OS-8,Kiffa,1987-01-01
+DQ380179|human|MRT|1987-01-01,human,MRT,DQ380179,Rift Valley fever virus,1690,OS-9,Ayoun el Atrous,1987-01-01
+KM210508|camel|MRT|2010-10-06,camel,MRT,KM210508,Rift Valley fever virus,1691,25010_24,Aoujeft,2010-10-06
+KY366328|human|MRT|2015-01-01,human,MRT,KY366328,Rift Valley fever virus,1605,272660,Maghta Lahjar,2015-01-01
+DQ380180|human|MRT|1987-01-01,human,MRT,DQ380180,Rift Valley fever virus,1692,OS-1,Keur Macene,1987-01-01
+HE687307|human|MYT|2008-03-20,human,MYT,HE687307,Rift Valley fever virus,1691,2008/00101,Sada,2008-03-20
+HE687302|human|MYT|2008-02-21,human,MYT,HE687302,Rift Valley fever virus,1691,2008/00099,Bandraboua,2008-02-21
+MT561462|springbok|NAM|2011-07-30,springbok,NAM,MT561462,Rift Valley fever virus,1690,Namibia_2011,Oshikoto,2011-07-30
+KY196500|human|NAM|2004-01-01,human,NAM,KY196500,Rift Valley fever virus,1690,SPU77/04,Caprivi,2004-01-01
+MT561459|sheep|NAM|2010-07-30,sheep,NAM,MT561459,Rift Valley fever virus,1690,Namibia_2010,Karasburg,2010-07-30
+P116|cow|RWA|2022-07-01,cow,RWA,P116,Rift Valley fever virus,1690,P116,Nyanza,2022-07-01
+P35|cow|RWA|2022-06-17,cow,RWA,P35,Rift Valley fever virus,1690,P35,Nyarugenge,2022-06-17
+P31|cow|RWA|2022-06-17,cow,RWA,P31,Rift Valley fever virus,1690,P31,Nyarugenge,2022-06-17
+P13|cow|RWA|2022-06-08,cow,RWA,P13,Rift Valley fever virus,1661,P13,Kamonyi,2022-06-08
+P319|cow|RWA|2022-08-25,cow,RWA,P319,Rift Valley fever virus,1690,P319,Nyamasheke,2022-08-25
+P11|cow|RWA|2022-06-09,cow,RWA,P11,Rift Valley fever virus,1690,P11,Kamonyi,2022-06-09
+RU1|cow|RWA|2018-01-01,cow,RWA,RU1,Rift Valley fever virus,1690,RU1,Rulindo,2018-01-01
+P103|cow|RWA|2022-08-08,cow,RWA,P103,Rift Valley fever virus,1690,P103,Gicumbi,2022-08-08
+P102|cow|RWA|2022-08-05,cow,RWA,P102,Rift Valley fever virus,1690,P102,Gicumbi,2022-08-05
+P100|cow|RWA|2022-07-31,cow,RWA,P100,Rift Valley fever virus,1690,P100,Gicumbi,2022-07-31
+P1|cow|RWA|2022-06-01,cow,RWA,P1,Rift Valley fever virus,1690,P1,Nyarugenge,2022-06-01
+NG10|cow|RWA|2018-01-01,cow,RWA,NG10,Rift Valley fever virus,1661,NG10,Ngoma,2018-01-01
+P40|cow|RWA|2022-07-03,cow,RWA,P40,Rift Valley fever virus,1690,P40,Muhanga,2022-07-03
+P104|cow|RWA|2022-08-08,cow,RWA,P104,Rift Valley fever virus,1690,P104,Gicumbi,2022-08-08
+P45|cow|RWA|2022-06-17,cow,RWA,P45,Rift Valley fever virus,1690,P45,Muhanga,2022-06-17
+P23|cow|RWA|2022-06-13,cow,RWA,P23,Rift Valley fever virus,1690,P23,Muhanga,2022-06-13
+P5|cow|RWA|2022-06-03,cow,RWA,P5,Rift Valley fever virus,1690,P5,Nyarugenge,2022-06-03
+P76|cow|RWA|2022-06-27,cow,RWA,P76,Rift Valley fever virus,1690,P76,Muhanga,2022-06-27
+P55|cow|RWA|2022-06-12,cow,RWA,P55,Rift Valley fever virus,1690,P55,Gicumbi,2022-06-12
+P66|cow|RWA|2022-06-22,cow,RWA,P66,Rift Valley fever virus,1690,P66,Nyarugenge,2022-06-22
+P71|cow|RWA|2022-06-14,cow,RWA,P71,Rift Valley fever virus,1690,P71,Nyarugenge,2022-06-14
+P47|cow|RWA|2022-06-09,cow,RWA,P47,Rift Valley fever virus,1690,P47,Kamonyi,2022-06-09
+P73|sheep|RWA|2022-07-03,sheep,RWA,P73,Rift Valley fever virus,1690,P73,Muhanga,2022-07-03
+P80|cow|RWA|2022-06-28,cow,RWA,P80,Rift Valley fever virus,1690,P80,Nyarugenge,2022-06-28
+P86|cow|RWA|2022-06-28,cow,RWA,P86,Rift Valley fever virus,1690,P86,Nyarugenge,2022-06-28
+P90|cow|RWA|2022-07-09,cow,RWA,P90,Rift Valley fever virus,1690,P90,Nyarugenge,2022-07-09
+P99|cow|RWA|2022-07-29,cow,RWA,P99,Rift Valley fever virus,1690,P99,Nyarugenge,2022-07-29
+DQ380170|human|SAU|2000-01-01,human,SAU,DQ380170,Rift Valley fever virus,1690,Saudi 2000-10911,Jizan,2000-01-01
+KX096943|mosquito|SAU|2001-01-01,mosquito,SAU,KX096943,Rift Valley fever virus,1690,SA01-1322,Aseer,2001-01-01
+JQ820476|human|SDN|2010-10-01,human,SDN,JQ820476,Rift Valley fever virus,1691,Sudan 85-2010,Gezira,2010-10-01
+JQ820472|human|SDN|2007-01-01,human,SDN,JQ820472,Rift Valley fever virus,1691,Sudan 2V-2007,White Nile,2007-01-01
+JQ840746|human|SDN|2007-01-01,human,SDN,JQ840746,Rift Valley fever virus,1690,Sudan B-2007,White Nile,2007-01-01
+JQ820473|human|SDN|2010-10-01,human,SDN,JQ820473,Rift Valley fever virus,1690,Sudan 4-2010,Gezira,2010-10-01
+JQ820482|human|SDN|2007-11-01,human,SDN,JQ820482,Rift Valley fever virus,1689,Sudan 77-2007,Khartoum,2007-11-01
+JQ820481|human|SDN|2010-10-01,human,SDN,JQ820481,Rift Valley fever virus,1689,Sudan 30-2010,Gezira,2010-10-01
+JQ820477|human|SDN|2010-10-01,human,SDN,JQ820477,Rift Valley fever virus,1691,Sudan 86-2010,Gezira,2010-10-01
+JQ820474|human|SDN|2010-10-01,human,SDN,JQ820474,Rift Valley fever virus,1690,Sudan 28-2010,Gezira,2010-10-01
+JQ820478|human|SDN|2007-11-01,human,SDN,JQ820478,Rift Valley fever virus,1690,Sudan 133-2007,Khartoum,2007-11-01
+JQ820475|human|SDN|2010-10-01,human,SDN,JQ820475,Rift Valley fever virus,1690,Sudan 34-2010,Gezira,2010-10-01
+MG659990|human|SEN|1975-01-01,human,SEN,MG659990,Rift Valley fever virus,1691,HD21955,Kedougou,1975-01-01
+HM586981|human|TZA|2007-02-08,human,TZA,HM586981,Rift Valley fever virus,1691,TAN/Tan-001/07,Tanga,2007-02-08
+HM586982|human|TZA|2007-03-14,human,TZA,HM586982,Rift Valley fever virus,1691,TAN/Dod-002/07,Dodoma,2007-03-14
+JF326203|human|TZA|2007-02-01,human,TZA,JF326203,Rift Valley fever virus,1691,2007000323,Dodoma,2007-02-01
+EU312121|mosquito|UGA|1955-01-01,mosquito,UGA,EU312121,Rift Valley fever virus,1692,LunyoUGA55,Lunyo,1955-01-01
+MG972974|human|UGA|2017-11-21,human,UGA,MG972974,Rift Valley fever virus,1644,201707024,Mityana,2017-11-21
+MG953425|human|UGA|2016-03-15,human,UGA,MG953425,Rift Valley fever virus,1675,201601292,Kamuganguzi,2016-03-15
+MG972980|human|UGA|2017-12-07,human,UGA,MG972980,Rift Valley fever virus,1581,201707025,Sembabule,2017-12-07
+MG953424|human|UGA|2016-03-15,human,UGA,MG953424,Rift Valley fever virus,1615,201601287,Kabale,2016-03-15
+MG659989|mosquito|UGA|1955-01-01,mosquito,UGA,MG659989,Rift Valley fever virus,1691,Lunyo,Lunyo,1955-01-01
+DQ380156|human|UGA|1944-01-01,human,UGA,DQ380156,Rift Valley fever virus,1691,Entebbe,Entebbe,1944-01-01
+MG953426|human|UGA|2016-06-09,human,UGA,MG953426,Rift Valley fever virus,1641,201601502,Kabale,2016-06-09
+MG972977|human|UGA|2017-11-16,human,UGA,MG972977,Rift Valley fever virus,1686,201707023,Kiboga,2017-11-16
+ON060771|human|UGA|2019-01-01,human,UGA,ON060771,Rift Valley fever virus,1586,2019000312_S|Uganda|2019,Kampala,2019-01-01
+ON060786|human|UGA|2019-01-01,human,UGA,ON060786,Rift Valley fever virus,1681,201901671_S|Uganda,Kampala,2019-01-01
+ON060774|human|UGA|2019-01-01,human,UGA,ON060774,Rift Valley fever virus,1683,2019000825_S|Uganda|2019,Kampala,2019-01-01
+ON060835|human|UGA|2020-03-01,human,UGA,ON060835,Rift Valley fever virus,1589,2021000843_S|Uganda,Kampala,2020-03-01
+ON060833|human|UGA|2020-12-01,human,UGA,ON060833,Rift Valley fever virus,1674,2020002574_S|Uganda,Kampala,2020-12-01
+ON060830|human|UGA|2020-07-01,human,UGA,ON060830,Rift Valley fever virus,1671,2020001195_S|Uganda,Kampala,2020-07-01
+ON060827|human|UGA|2020-02-01,human,UGA,ON060827,Rift Valley fever virus,1618,2020000159_S|Uganda,Kampala,2020-02-01
+ON060824|human|UGA|2020-02-01,human,UGA,ON060824,Rift Valley fever virus,1647,2020000148_S|Uganda,Kampala,2020-02-01
+ON060838|human|UGA|2020-07-01,human,UGA,ON060838,Rift Valley fever virus,1667,2021001358_S|Uganda,Kampala,2020-07-01
+ON060812|human|UGA|2018-01-01,human,UGA,ON060812,Rift Valley fever virus,1660,201902754_S|Uganda|2018,Kampala,2018-01-01
+ON060810|human|UGA|2018-01-01,human,UGA,ON060810,Rift Valley fever virus,1680,201902753_S|Uganda|2018,Kampala,2018-01-01
+ON060807|human|UGA|2018-01-01,human,UGA,ON060807,Rift Valley fever virus,1679,201902750_S|Uganda|2018,Kampala,2018-01-01
+ON060801|human|UGA|2018-01-01,human,UGA,ON060801,Rift Valley fever virus,1674,201902745_S|Uganda|2018,Kampala,2018-01-01
+ON060798|human|UGA|2018-01-01,human,UGA,ON060798,Rift Valley fever virus,1670,201902737_S|Uganda|2018,Kampala,2018-01-01
+ON060792|human|UGA|2018-01-01,human,UGA,ON060792,Rift Valley fever virus,1667,201902734_S|Uganda|2018,Kampala,2018-01-01
+ON060821|human|UGA|2018-01-01,human,UGA,ON060821,Rift Valley fever virus,1679,201902764_S|Uganda|2018,Kampala,2018-01-01
+MG659964|human|ZAF|2010-01-01,human,ZAF,MG659964,Rift Valley fever virus,1690,SA1098/10,Free state,2010-01-01
+MG659965|human|ZAF|2010-01-01,human,ZAF,MG659965,Rift Valley fever virus,1690,SA1143/10,Free state,2010-01-01
+MG659966|human|ZAF|2010-01-01,human,ZAF,MG659966,Rift Valley fever virus,1690,SA1171/10,Free state,2010-01-01
+MG659968|human|ZAF|2010-01-01,human,ZAF,MG659968,Rift Valley fever virus,1690,SA1282/10,Free state,2010-01-01
+MG659970|human|ZAF|2010-01-01,human,ZAF,MG659970,Rift Valley fever virus,1692,SA1372/10,Free state,2010-01-01
+MG659977|human|ZAF|2011-01-01,human,ZAF,MG659977,Rift Valley fever virus,1692,SA295/11,Eastern cape,2011-01-01
+MG659973|human|ZAF|2010-01-01,human,ZAF,MG659973,Rift Valley fever virus,1692,SA1518/10,Free state,2010-01-01
+MG659981|human|ZAF|2011-01-01,human,ZAF,MG659981,Rift Valley fever virus,1690,SA359/11,Eastern cape,2011-01-01
+MG659982|human|ZAF|2011-01-01,human,ZAF,MG659982,Rift Valley fever virus,1690,SA389/11,Eastern cape,2011-01-01
+MG659963|human|ZAF|2010-01-01,human,ZAF,MG659963,Rift Valley fever virus,1691,SA1095/10,Free state,2010-01-01
+MG659971|human|ZAF|2010-01-01,human,ZAF,MG659971,Rift Valley fever virus,1690,SA1405/10,Free state,2010-01-01
+MG659962|human|ZAF|2010-01-01,human,ZAF,MG659962,Rift Valley fever virus,1691,SA1167/10,Free state,2010-01-01
+MG659910|human|ZAF|2010-01-01,human,ZAF,MG659910,Rift Valley fever virus,1690,SA76/10,Free state,2010-01-01
+MG659956|human|ZAF|2010-01-01,human,ZAF,MG659956,Rift Valley fever virus,1690,SA746/10,Free state,2010-01-01
+KX944821|human|ZAF|1974-01-01,human,ZAF,KX944821,Rift Valley fever virus,1654,M57/74,Eshowe,1974-01-01
+KX944822|cow|ZAF|2009-01-01,cow,ZAF,KX944822,Rift Valley fever virus,1689,M66/09,Modderfontein,2009-01-01
+KX944823|cow|ZAF|2008-01-01,cow,ZAF,KX944823,Rift Valley fever virus,1645,M80/08/2,Centurion,2008-01-01
+KX944824|cow|ZAF|2008-01-01,cow,ZAF,KX944824,Rift Valley fever virus,1638,M84/08,Centurion,2008-01-01
+KX944825|bovine|ZAF|2008-01-01,bovine,ZAF,KX944825,Rift Valley fever virus,1691,M85/08,Centurion,2008-01-01
+KY196488|human|ZAF|2010-01-01,human,ZAF,KY196488,Rift Valley fever virus,1690,SA129/10,Free state,2010-01-01
+KX944818|buffalo|ZAF|2008-01-01,buffalo,ZAF,KX944818,Rift Valley fever virus,1691,M39/08,Mbombela,2008-01-01
+KY196489|human|ZAF|2010-01-01,human,ZAF,KY196489,Rift Valley fever virus,1690,SPU162/10,Northern cape,2010-01-01
+KY196492|human|ZAF|2010-01-01,human,ZAF,KY196492,Rift Valley fever virus,1691,SA276/10,Free state,2010-01-01
+KY196493|human|ZAF|2010-01-01,human,ZAF,KY196493,Rift Valley fever virus,1690,SA573/10,Free state,2010-01-01
+KY196494|human|ZAF|2010-01-01,human,ZAF,KY196494,Rift Valley fever virus,1691,SA982/10,Free state,2010-01-01
+KY196495|human|ZAF|2010-01-01,human,ZAF,KY196495,Rift Valley fever virus,1690,SA1094/10,Free state,2010-01-01
+KY196496|human|ZAF|2010-01-01,human,ZAF,KY196496,Rift Valley fever virus,1691,SA1222/10,Free state,2010-01-01
+MG659958|human|ZAF|2010-01-01,human,ZAF,MG659958,Rift Valley fever virus,1690,SA918/10,Free state,2010-01-01
+KY196491|human|ZAF|2010-01-01,human,ZAF,KY196491,Rift Valley fever virus,1690,SA275/10,Free state,2010-01-01
+KY196498|human|ZAF|2011-01-01,human,ZAF,KY196498,Rift Valley fever virus,1690,SA354/11,Eastern cape,2011-01-01
+KX944817|buffalo|ZAF|2008-01-01,buffalo,ZAF,KX944817,Rift Valley fever virus,1691,M37/08,Hoedspruit,2008-01-01
+KX944815|cow|ZAF|2010-01-01,cow,ZAF,KX944815,Rift Valley fever virus,1617,M29/10,Pretoria,2010-01-01
+EU709747|human|ZAF|2008-01-01,human,ZAF,EU709747,Rift Valley fever virus,1690,SPU77RSA08,Phalaborwa,2008-01-01
+DQ380175|human|ZAF|1975-01-01,human,ZAF,DQ380175,Rift Valley fever virus,1691,SA-75,Randfontein,1975-01-01
+JF784388|sheep|ZAF|1974-01-01,sheep,ZAF,JF784388,Rift Valley fever virus,1691,35/74,Free State,1974-01-01
+DQ380158|sheep|ZAF|1951-01-01,sheep,ZAF,DQ380158,Rift Valley fever virus,1691,SA-51 (Van Wyck),Boshof,1951-01-01
+KX944803|cow|ZAF|2010-01-01,cow,ZAF,KX944803,Rift Valley fever virus,1672,M06/10,Sterkfontein,2010-01-01
+KX944804|cow|ZAF|2009-01-01,cow,ZAF,KX944804,Rift Valley fever virus,1635,M127/09,Groenhof,2009-01-01
+KX944816|sheep|ZAF|2010-01-01,sheep,ZAF,KX944816,Rift Valley fever virus,1676,M33/10,Middelburg,2010-01-01
+KX944805|sheep|ZAF|2010-01-01,sheep,ZAF,KX944805,Rift Valley fever virus,1676,M12/10,Bultfontein,2010-01-01
+KX944807|mosquito|ZAF|1955-01-01,mosquito,ZAF,KX944807,Rift Valley fever virus,1655,M1955,Free State,1955-01-01
+KX944808|cow|ZAF|1975-01-01,cow,ZAF,KX944808,Rift Valley fever virus,1653,M1975/Bov,Natal,1975-01-01
+KX944809|sheep|ZAF|2010-01-01,sheep,ZAF,KX944809,Rift Valley fever virus,1654,M19/10,Heldefontein,2010-01-01
+KX944811|sheep|ZAF|2009-01-01,sheep,ZAF,KX944811,Rift Valley fever virus,1678,M247/09,Upington,2009-01-01
+KX944813|sheep|ZAF|2010-01-01,sheep,ZAF,KX944813,Rift Valley fever virus,1661,M25/10,Bultfontein,2010-01-01
+KX944814|cow|ZAF|2009-01-01,cow,ZAF,KX944814,Rift Valley fever virus,1626,M260/09,Upington,2009-01-01
+KX944806|sheep|ZAF|2010-01-01,sheep,ZAF,KX944806,Rift Valley fever virus,1675,M16/10,Bultfontein,2010-01-01
+KY196499|human|ZAF|2011-01-01,human,ZAF,KY196499,Rift Valley fever virus,1690,SA494/11,Eastern cape,2011-01-01
+KY196497|human|ZAF|2010-01-01,human,ZAF,KY196497,Rift Valley fever virus,1690,SA1796/10,Free state,2010-01-01
+KY196502|buffalo|ZAF|2008-01-01,buffalo,ZAF,KY196502,Rift Valley fever virus,1692,J40/6,Mpumalanga,2008-01-01
+MG659955|human|ZAF|2010-01-01,human,ZAF,MG659955,Rift Valley fever virus,1691,SA705/10,Free state,2010-01-01
+MG659954|human|ZAF|2010-01-01,human,ZAF,MG659954,Rift Valley fever virus,1691,SA665/10,Free state,2010-01-01
+MG659953|human|ZAF|2010-01-01,human,ZAF,MG659953,Rift Valley fever virus,1690,SA638/10,Free state,2010-01-01
+MG659951|human|ZAF|2010-01-01,human,ZAF,MG659951,Rift Valley fever virus,1690,SA633/10,Free state,2010-01-01
+MG659947|human|ZAF|2010-01-01,human,ZAF,MG659947,Rift Valley fever virus,1690,SA535/10,Free state,2010-01-01
+MG659946|human|ZAF|2010-01-01,human,ZAF,MG659946,Rift Valley fever virus,1690,SA509/10,Free state,2010-01-01
+MG659936|human|ZAF|2010-01-01,human,ZAF,MG659936,Rift Valley fever virus,1690,SA344/10,Free state,2010-01-01
+MG659934|human|ZAF|2010-01-01,human,ZAF,MG659934,Rift Valley fever virus,1691,SA322/10,Free state,2010-01-01
+MG659933|human|ZAF|2010-01-01,human,ZAF,MG659933,Rift Valley fever virus,1690,SA317/10,Free state,2010-01-01
+MG659931|human|ZAF|2010-01-01,human,ZAF,MG659931,Rift Valley fever virus,1691,SA257/10,Free state,2010-01-01
+MG659930|human|ZAF|2010-01-01,human,ZAF,MG659930,Rift Valley fever virus,1691,SA250/10,Free state,2010-01-01
+MG659928|human|ZAF|2010-01-01,human,ZAF,MG659928,Rift Valley fever virus,1690,SA225/10,Free state,2010-01-01
+KY196501|buffalo|ZAF|2008-01-01,buffalo,ZAF,KY196501,Rift Valley fever virus,1689,SPU77/08,Mpumalanga,2008-01-01
+MG659926|human|ZAF|2010-01-01,human,ZAF,MG659926,Rift Valley fever virus,1690,SA206/10,Free state,2010-01-01
+MG659924|human|ZAF|2010-01-01,human,ZAF,MG659924,Rift Valley fever virus,1690,SA135/10,Free state,2010-01-01
+KY196487|human|ZAF|2010-01-01,human,ZAF,KY196487,Rift Valley fever virus,1690,SPU105/10,Northern cape,2010-01-01
+MG659917|human|ZAF|2010-01-01,human,ZAF,MG659917,Rift Valley fever virus,1690,SPU100/10,Eastern cape,2010-01-01
+KY196503|cow|ZAF|2008-01-01,cow,ZAF,KY196503,Rift Valley fever virus,1692,SPU142/08,Bela-Bela,2008-01-01
+KY196505|cow|ZAF|2009-01-01,cow,ZAF,KY196505,Rift Valley fever virus,1689,SPU86/09,Northern cape,2009-01-01
+KY196506|human|ZAF|2009-01-01,human,ZAF,KY196506,Rift Valley fever virus,1690,SPU404/09,Eastern cape,2009-01-01
+KY196507|mosquito|ZAF|1955-01-01,mosquito,ZAF,KY196507,Rift Valley fever virus,1691,Ar74,Free State,1955-01-01
+MG659920|human|ZAF|2010-01-01,human,ZAF,MG659920,Rift Valley fever virus,1690,SA110/10,Free state,2010-01-01
+KY196509|mosquito|ZAF|1971-01-01,mosquito,ZAF,KY196509,Rift Valley fever virus,1691,Ar12568,Standerton,1971-01-01
+KY196510|mosquito|ZAF|1981-01-01,mosquito,ZAF,KY196510,Rift Valley fever virus,1690,Ar20364,Natal,1981-01-01
+KY196508|mosquito|ZAF|1956-01-01,mosquito,ZAF,KY196508,Rift Valley fever virus,1691,An1830,Free State,1956-01-01
+KY196511|buffalo|ZAF|1999-01-01,buffalo,ZAF,KY196511,Rift Valley fever virus,1690,SPU52/99/1,Limpopo,1999-01-01
+MG659905|mosquito|ZAF|1955-01-01,mosquito,ZAF,MG659905,Rift Valley fever virus,1692,Ar 118,Free State,1955-01-01
+MG659906|human|ZAF|2010-01-01,human,ZAF,MG659906,Rift Valley fever virus,1690,SPU59/10,Northern cape,2010-01-01
+MG659907|human|ZAF|2010-01-01,human,ZAF,MG659907,Rift Valley fever virus,1691,SA62/10,Free state,2010-01-01
+MG659914|human|ZAF|2010-01-01,human,ZAF,MG659914,Rift Valley fever virus,1690,SA93/10,Free state,2010-01-01
+DQ380159|cow|ZWE|1974-01-01,cow,ZWE,DQ380159,Rift Valley fever virus,1691,2373/74,Salisbury,1974-01-01
+DQ380164|cow|ZWE|1978-01-01,cow,ZWE,DQ380164,Rift Valley fever virus,1690,1260/78,Salisbury,1978-01-01
+DQ380168|cow|ZWE|1978-01-01,cow,ZWE,DQ380168,Rift Valley fever virus,1691,1853/78,Sinoia,1978-01-01
+MG659986|human|ZWE|1976-01-01,human,ZWE,MG659986,Rift Valley fever virus,1691,VRL2051/76,Gatooma,1976-01-01
+DQ380173|cow|ZWE|1974-01-01,cow,ZWE,DQ380173,Rift Valley fever virus,1691,2269/74,Sinoia,1974-01-01
+DQ380174|cow|ZWE|1970-01-01,cow,ZWE,DQ380174,Rift Valley fever virus,1690,763/70,Salisbury,1970-01-01
+MG659988|cow|ZWE|1978-01-01,cow,ZWE,MG659988,Rift Valley fever virus,1691,VRL1290/78,Salisbury,1978-01-01
+DQ380143|cow|ZWE|1974-01-01,cow,ZWE,DQ380143,Rift Valley fever virus,1690,2250/74,Beatrice,1974-01-01
+MG659987|sheep|ZWE|1978-01-01,sheep,ZWE,MG659987,Rift Valley fever virus,1691,VRL1217/78,Sinoia,1978-01-01
